@@ -1,16 +1,27 @@
-## Hi there 👋
+Hey, I'm Charles 👋
 
-<!--
-**chrodrigues/chrodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a eternal student passionate about GitOps, Kubernetes, and infrastructure automation.
 
-Here are some ideas to get you started:
+🛠️ What You'll Find Here
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Infrastructure as Code: Terraform projects, like deploying Kubernetes clusters on Proxmox.
+GitOps: ArgoCD and Kustomize configs for managing multiple clusters/environments.
+Pipelines: CI/CD workflows with GitHub Actions, GitLab CI.
+DevSecOps: Monitoring setups with Prometheus, Grafana, and secure secret management.
+
+🚀 Featured Projects
+
+Terraform Proxmox Kubernetes: Automated Kubernetes cluster deployment on Proxmox using Terraform.
+ArgoCD GitOps: GitOps workflow with ArgoCD’s "App of Apps" pattern.
+CI/CD Pipeline: Automated build, test, and deploy pipeline.
+
+📫 Let's Connect!
+
+LinkedIn: https://www.linkedin.com/in/ch-rodrigues/
+Email: charleskrodrigues@hotmail.com
+
+📊 My Tech Stack
+
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes)
+![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logo=terraform)
+![ArgoCD](https://img.shields.io/badge/-ArgoCD-EF7B4D?logo=argo)
